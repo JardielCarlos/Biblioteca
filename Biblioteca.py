@@ -1,4 +1,10 @@
 from random import randint
+
+#   -----Autores-------
+#   -Rodrigo dos Santos
+#   -Jardiel Carlos
+#   -------------------
+
 print('-=' * 20)
 print(f'{"Biblioteca":^38}')
 print('-=' * 20)
